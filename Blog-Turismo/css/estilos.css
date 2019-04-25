@@ -1,0 +1,47 @@
+body{
+  background-image: url("../img/fondo.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+hr{
+  width: 70%;
+}
+
+.logo{
+  float: left;
+  width: 300px;
+  margin-top: 0.5rem;
+}
+
+.menu{
+  background: none;
+}
+
+.redes{
+  margin-bottom: 50px;
+}
+
+.galeria{
+
+  width: 450px;
+  margin-top: 0.5rem;
+}
+
+.larga{
+  width: 700px;
+  height: 800px;
+}
+
+.caño{
+  width: 300px;
+  margin-left: 10px;
+}
+
+.autor{
+  width: 200px;
+}
+
+.titulo{
+  margin: 20px;
+}

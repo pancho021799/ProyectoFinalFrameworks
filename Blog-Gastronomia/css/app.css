@@ -1,0 +1,55 @@
+.margen{
+  border-right: 1px solid black;
+}
+
+.menu{
+  margin-bottom: 20px;
+}
+
+.listado{
+  text: red !important;
+  background: blue;
+  border: 1px solid White;
+  margin-bottom: 5px;
+}
+
+.listado:hover{
+  border: 2px solid red;
+  background-color: blue;
+}
+
+.favoritos{
+  margin-bottom: 20px;
+}
+
+.mosaico{
+  border: 2px solid White;
+}
+
+.historial{
+  background-color:
+}
+
+.margen{
+  margin-bottom: 10px;
+}
+
+.usuario{
+  width: 70%;
+}
+
+
+@media (max-width: 995px){
+
+  .usuario{
+    width: 50%;
+  }
+}
+
+@media (max-width: 995px){
+
+  .usuario{
+    display: none;
+  }
+
+}
